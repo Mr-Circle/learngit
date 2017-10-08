@@ -1,3 +1,1 @@
-Git is good distributed under the GPL
-Git is free and fun
-Git tracks changes.
+git is good
